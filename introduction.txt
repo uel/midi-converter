@@ -1,0 +1,27 @@
+/*! \mainpage MIDI 2 JSON Converter
+\image html https://media.tenor.com/images/dee19b8c77e9f3d7bb8d79fd1fe254e6/tenor.gif
+
+\section usage Usage:
+-j [input_files] - JSON mode: convert from json to midi<br>
+-m [input_files] - MIDI mode: convert from midi to json<br>
+-r [-j ^ -m] root_directory - RECURSIVE mode: convert json or midi files recursively<br>
+-v midi_file - VISUAL mode: starts piano roll visualization of midi file<br>
+<br>
+-e extension - appends extension to output files<br>
+-t tempo - specifies the tempo of the .mid output, only applied with -j<br>
+-i instrument_number - specifies the instrument of the .mid output, only applied with -j<br>
+
+Key order in json format must be:<br>
+[<br>
+{ "note": 63, "start": 0, "duration": 0.1, "velocity": 127 },<br>
+                                ...<br>
+{ "note": 64, "start": 54.2, "duration": 0.1, "velocity": 127 }<br>
+]<br>
+
+\section instrument Instrument options:
+\image html https://i.ibb.co/k60fDg6/Screenshot-from-2021-05-24-17-08-46.png
+
+\section notes Notes:
+This program follows this standard for midi files:<br>
+http://www.music.mcgill.ca/~ich/classes/mumt306/StandardMIDIfileformat.html
+*/

@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMidiFileSegment.html" title="A parent class containing shared members and methods of midi segments." alt="" coords="5,107,136,133"/>
+<area shape="rect" id="node2" href="$structEvent.html" title="Virtual class of any midi message." alt="" coords="191,56,250,83"/>
+<area shape="rect" id="node6" href="$classMidiFile.html" title="Representation of a midifile used to load, save and convert midifiles." alt="" coords="184,107,257,133"/>
+<area shape="rect" id="node7" href="$classTrack.html" title="Highest segment under the midi files itself, contains midi events." alt="" coords="193,157,249,184"/>
+<area shape="rect" id="node3" href="$structMetaEvent.html" title="MidiEvent is a miscellaneous event for track modifications and text/copyright, status = 0xFF." alt="" coords="309,5,401,32"/>
+<area shape="rect" id="node4" href="$structMidiEvent.html" title="MidiEvent is any event affecting a channel, status &gt; 0x80." alt="" coords="311,56,398,83"/>
+<area shape="rect" id="node5" href="$structSysexEvent.html" title="Represents a System exclusive event." alt="" coords="305,107,404,133"/>
+</map>

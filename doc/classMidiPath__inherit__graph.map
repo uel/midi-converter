@@ -1,0 +1,4 @@
+<map id="MidiPath" name="MidiPath">
+<area shape="rect" id="node1" title="Path to a midi file or folder containing midi files." alt="" coords="5,80,84,107"/>
+<area shape="rect" id="node2" href="$classFilePath.html" title="Virtual class of a path pointing to a file or folder about to be converted." alt="" coords="8,5,81,32"/>
+</map>

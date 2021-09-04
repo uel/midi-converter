@@ -1,0 +1,4 @@
+<map id="Track" name="Track">
+<area shape="rect" id="node1" title="Highest segment under the midi files itself, contains midi events." alt="" coords="43,80,99,107"/>
+<area shape="rect" id="node2" href="$classMidiFileSegment.html" title="A parent class containing shared members and methods of midi segments." alt="" coords="5,5,136,32"/>
+</map>

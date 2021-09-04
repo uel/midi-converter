@@ -1,0 +1,5 @@
+<map id="MetaEvent" name="MetaEvent">
+<area shape="rect" id="node1" title="MidiEvent is a miscellaneous event for track modifications and text/copyright, status = 0xFF." alt="" coords="25,155,117,181"/>
+<area shape="rect" id="node2" href="$structEvent.html" title="Virtual class of any midi message." alt="" coords="41,80,100,107"/>
+<area shape="rect" id="node3" href="$classMidiFileSegment.html" title="A parent class containing shared members and methods of midi segments." alt="" coords="5,5,136,32"/>
+</map>

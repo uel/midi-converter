@@ -1,0 +1,5 @@
+<map id="MidiPath" name="MidiPath">
+<area shape="rect" id="node1" title="Path to a midi file or folder containing midi files." alt="" coords="5,171,84,197"/>
+<area shape="rect" id="node2" href="$classFilePath.html" title="Virtual class of a path pointing to a file or folder about to be converted." alt="" coords="8,95,81,121"/>
+<area shape="rect" id="node3" href="$classCLI.html" title="The command line interface reads input from std::in and executes commands from the user." alt="" coords="23,5,66,32"/>
+</map>

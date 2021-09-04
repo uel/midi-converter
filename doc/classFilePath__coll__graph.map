@@ -1,0 +1,4 @@
+<map id="FilePath" name="FilePath">
+<area shape="rect" id="node1" title="Virtual class of a path pointing to a file or folder about to be converted." alt="" coords="5,95,79,121"/>
+<area shape="rect" id="node2" href="$classCLI.html" title="The command line interface reads input from std::in and executes commands from the user." alt="" coords="21,5,63,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Star" name="Star">
+<area shape="rect" id="node1" title="A fast moving star particle." alt="" coords="17,80,65,107"/>
+<area shape="rect" id="node2" href="$classParticle.html" title="A virtual class of any particle with a position, to be simulated and displayed." alt="" coords="5,5,76,32"/>
+</map>

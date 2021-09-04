@@ -1,0 +1,4 @@
+<map id="MidiFile" name="MidiFile">
+<area shape="rect" id="node1" title="Representation of a midifile used to load, save and convert midifiles." alt="" coords="34,80,107,107"/>
+<area shape="rect" id="node2" href="$classMidiFileSegment.html" title="A parent class containing shared members and methods of midi segments." alt="" coords="5,5,136,32"/>
+</map>

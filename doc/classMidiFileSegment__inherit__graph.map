@@ -1,0 +1,9 @@
+<map id="MidiFileSegment" name="MidiFileSegment">
+<area shape="rect" id="node1" title="A parent class containing shared members and methods of midi segments." alt="" coords="190,5,321,32"/>
+<area shape="rect" id="node2" href="$structEvent.html" title="Virtual class of any midi message." alt="" coords="135,80,194,107"/>
+<area shape="rect" id="node6" href="$classMidiFile.html" title="Representation of a midifile used to load, save and convert midifiles." alt="" coords="219,80,292,107"/>
+<area shape="rect" id="node7" href="$classTrack.html" title="Highest segment under the midi files itself, contains midi events." alt="" coords="317,80,373,107"/>
+<area shape="rect" id="node3" href="$structMetaEvent.html" title="MidiEvent is a miscellaneous event for track modifications and text/copyright, status = 0xFF." alt="" coords="5,155,97,181"/>
+<area shape="rect" id="node4" href="$structMidiEvent.html" title="MidiEvent is any event affecting a channel, status &gt; 0x80." alt="" coords="121,155,208,181"/>
+<area shape="rect" id="node5" href="$structSysexEvent.html" title="Represents a System exclusive event." alt="" coords="233,155,331,181"/>
+</map>
